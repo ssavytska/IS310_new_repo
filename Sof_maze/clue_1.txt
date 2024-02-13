@@ -1,0 +1,3 @@
+What are the two U of I colors:
+door_1: red and purple 
+door_2: orange and blue
